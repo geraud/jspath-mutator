@@ -1,6 +1,6 @@
 {
   "name": "jspath-mutator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool to modify a javascript object tree",
   "main": "dist/jspath-mutator.js",
   "scripts": {
